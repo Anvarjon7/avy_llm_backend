@@ -1,4 +1,4 @@
-#!C:\Users\Win-10\Avy_LLM_Project\env\Scripts\python.exe
+#!C:\Users\Win-10\avy_llm_backend\env\Scripts\python.exe
 # encoding: utf-8
 """Find and (optionally) delete corrupt Whisper data files"""
 from __future__ import absolute_import, print_function, unicode_literals

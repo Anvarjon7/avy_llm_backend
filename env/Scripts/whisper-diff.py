@@ -1,4 +1,4 @@
-#!C:\Users\Win-10\Avy_LLM_Project\env\Scripts\python.exe -tt
+#!C:\Users\Win-10\avy_llm_backend\env\Scripts\python.exe -tt
 
 import sys
 import optparse
