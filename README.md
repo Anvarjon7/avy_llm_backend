@@ -2,9 +2,7 @@
 
 ### Project Overview:
 
-The Avy LLM Project aims to integrate a large language model (LLM) into a Learning Management System (LMS) to provide AI-powered, personalized learning experiences. The backend will focus on training the model using course-related data such as PDFs and video transcripts and will employ AI algorithms for real-time personalization of quizzes, tasks, and lessons.
-
-The backend will interact with MongoDB for knowledge base storage, OpenAI for embeddings, and the Flask framework for API development. Additionally, AI algorithms will adjust course difficulty based on student progress and interactions.
+This backend powers the Avy LMS with AI-driven functionalities, including personalized content delivery and dynamic Q&A, using LangChain, Whisper, MongoDB, and OpenAI APIs.
 
 ### Requirements
 This project uses several key libraries and tools, including:
@@ -16,3 +14,8 @@ This project uses several key libraries and tools, including:
 **Whisper** For transcribing audio from video lectures.
 **MongoDB** v8.0.1 For storing the knowledge base.
 **python-dotenv** To manage environment variables.# avy_llm_backend
+
+
+## Setup
+1. Create and activate a virtual environment.
+2. Install dependencies using `requirements.txt`.
